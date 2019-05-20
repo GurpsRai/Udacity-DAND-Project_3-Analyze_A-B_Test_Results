@@ -1,7 +1,7 @@
 
 ## Analyse A/B Test Results
 
-This project was submitted for the Practical Statistic element of Udacity’s Data Analyst Nanodgree.
+This project was submitted for the Practical Statistic element of Udacity’s Data Analyst Nanodegree.
 
 ### Project Requirements:
 
